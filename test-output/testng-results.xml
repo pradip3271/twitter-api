@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2163" started-at="2018-06-15T11:40:51Z" finished-at="2018-06-15T11:40:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2163" started-at="2018-06-15T11:40:51Z" finished-at="2018-06-15T11:40:53Z">
+      <class name="com.twitter.apps.StatusesUpdateTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.twitter.apps.StatusesUpdateTest@42d80b78]" name="setUp" is-config="true" duration-ms="475" started-at="2018-06-15T11:40:51Z" finished-at="2018-06-15T11:40:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.twitter.apps.StatusesUpdateTest@42d80b78]" name="test" duration-ms="6" started-at="2018-06-15T11:40:52Z" finished-at="2018-06-15T11:40:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="updateStatusAndVerify()[pri:0, instance:com.twitter.apps.StatusesUpdateTest@42d80b78]" name="updateStatusAndVerify" duration-ms="1658" started-at="2018-06-15T11:40:52Z" finished-at="2018-06-15T11:40:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateStatusAndVerify -->
+      </class> <!-- com.twitter.apps.StatusesUpdateTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
